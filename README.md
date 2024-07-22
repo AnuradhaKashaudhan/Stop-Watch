@@ -1,5 +1,6 @@
 # Stop-Watch
 [stop.watch](hgtuy)
+
 This stopwatch includes start, stop, reset, and pause buttons, it offers more flexibility in timekeeping. 
 It's also include Lap/Split 
 start: Initiates the time counting.
